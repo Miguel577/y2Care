@@ -1,12 +1,12 @@
 # y2Care
 Helping you figure out why to care
 
-Overview
+## Overview ##
 This application, in its Alpha stage, helps users get motivated about concepts learned in school or from external resources.
 
 Currently prototyping a model, let us know if you have any feedback!
 
-Running
+## Running ##
 
 Install dependencies: $ npm install or $ yarn
 
@@ -14,7 +14,7 @@ Fire up a development server: $ npm run dev
 
 Once the server is running, you can visit http://localhost:3000/
 
-File layout
+## File layout ##
 
 Frontend React
 The top level application Container is in frontend/containers/AppContainer.js
@@ -41,8 +41,3 @@ $ heroku open
 Heroku will follow the build command in your package.json and compile assets with webpack.prod.config.js. It runs the Express web server in server.js.
 
 If you're unfamiliar with Heroku deployment (or just need a refresher), they have a really great walkthrough here.
-
-Running on Glitch
-
-Go to https://glitch.com/edit/#!/horizons-hackathon-react and click Remix this 🎤
-Click Show at the top to preview your app!
