@@ -1,3 +1,22 @@
+# Dev #
+## Key Points to tackle ##
+- Create interactive website that has a landing page, user login, search function, and history of searches
+- Search function:
+  y Algebra: returns Algebra package
+- Package function:
+  Contains:
+    Brief summary of concept (very brief since we assume the user has a rough understanding)
+
+    Blob that helps users make the mental leap from basic definition to cool use cases
+
+    Relevant links to info websites, use cases, and tangents
+
+    How to build from here  
+
+## Outline ##
+
+## Timeline ##
+
 # y2Care
 Helping you figure out why to care
 
