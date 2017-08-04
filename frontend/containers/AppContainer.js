@@ -6,8 +6,8 @@ import SearchBar from '../components/SearchBar'
 
 const AppContainer = ({ name, search }) => {
     return (
-        <div>
-            <Title name={name} />
+        <div className="header-div">
+            <Title name={name} /> <br />
 
             <SearchBar search={search} />
         </div>
