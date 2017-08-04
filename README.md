@@ -11,11 +11,21 @@
 
     Relevant links to info websites, use cases, and tangents
 
-    How to build from here  
+    How to build learning from there  
 
 ## Outline ##
+- Create landing page with basic search bar
+- Create user login page
+- Backend database for user and search storage
+- API.AI for returning search query
+- Method of webscraping info based on API.AI search query return
+  for now, we can hard code values
+-UI/UX
 
 ## Timeline ##
+- 8/4/17 -M
+  Create landing page and basic search bar
+
 
 # y2Care
 Helping you figure out why to care
